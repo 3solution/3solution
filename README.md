@@ -1,7 +1,6 @@
 <hr>
-<h3 align="center">
-  <br>👆 Web & Mobile Specialist 👇<br><br>
-</h3>
+  <img align="center" width="50%" src="https://github.com/Evil-Developer/Evil-Developer/blob/main/title.gif" /><br>
+  <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
 <p>
 As a Professional developer who has 7 years of rich experience in web and mobile development and can handle all the web and mobile applications including backend & frontend and I can provide continuous support in the future.<br>
 
