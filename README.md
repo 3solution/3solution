@@ -1,7 +1,7 @@
 <hr>
-  <div style="text-align:center;">
+  <p align="center">
     <img align="center" width="50%" src="https://github.com/Evil-Developer/Evil-Developer/blob/main/title.gif" /><br>
-  </div>
+  </p>
 <hr> 
   <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
 <p>
