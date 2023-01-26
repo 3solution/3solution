@@ -1,6 +1,6 @@
 <hr>
   <p align="center">
-    <img align="center" width="50%" src="https://github.com/Evil-Developer/Evil-Developer/blob/main/title.gif" /><br>
+    <img align="center" width="50%" src="https://github.com/infinite0525/infinite0525/blob/main/title.gif" /><br>
   </p>
 <hr> 
   <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
@@ -185,8 +185,8 @@ If you hire me, I will do my best. Warmest regards.<br><br>
 </p>
 <hr>
 <p align="center">
-  <img align="" height='145px' src="https://github-readme-stats.vercel.app/api?username=Evil-Developer&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=highcontrast" />
-  <img align="" height='145px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evil-Developer&hide_title=true&layout=compact&count_private=true&langs_count=8&theme=highcontrast" />
+  <img align="" height='145px' src="https://github-readme-stats.vercel.app/api?username=infinite0525&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=highcontrast" />
+  <img align="" height='145px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinite0525&hide_title=true&layout=compact&count_private=true&langs_count=8&theme=highcontrast" />
 </p>
 <hr>
 <p align="center">
@@ -198,11 +198,11 @@ If you hire me, I will do my best. Warmest regards.<br><br>
     </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Evil-Developer?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Evil-Developer"/></a>
-  <a href="https://github.com/Evil-Developer?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Evil-Developer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/Evil-Developer">
-    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Evil-Developer&style=for-the-badge"/></a>
+  <a href="https://github.com/infinite0525?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/infinite0525"/></a>
+  <a href="https://github.com/infinite0525?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/infinite0525?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/infinite0525">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=infinite0525&style=for-the-badge"/></a>
 </p>
 <hr>
