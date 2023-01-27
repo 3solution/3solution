@@ -190,14 +190,6 @@ If you hire me, I will do my best. Warmest regards.<br><br>
 </p>
 <hr>
 <p align="center">
-    <a href="mailto:pro.expert0525@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/google-%2300acee.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google">
-    </a>
-    <a href="https://join.skype.com/invite/I2xzyRDK1Dua" target="_blank">
-        <img src="https://img.shields.io/badge/skype-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=skype&amp;logoColor=white" alt="skype">
-    </a>
-</p>
-<p align="center">
   <a href="https://github.com/infinite0525?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/infinite0525"/></a>
   <a href="https://github.com/infinite0525?tab=followers">
